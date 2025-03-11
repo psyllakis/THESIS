@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 antonis
 aria
 erasmia
@@ -25,3 +26,32 @@ xristofea_manual
 subject_1
 subject!
 subject_1
+=======
+antonis
+aria
+erasmia
+giorgos
+giorgos_2
+marilia
+markela
+sotirios
+tasos
+tasos_18
+theonumfi
+xristofea
+antonis_manual
+aria_manual
+erasmia_manual
+giorgos_manual
+giorgos_2_manual
+marilia_manual
+markela_manual
+sotirios_manual
+tasos_manual
+tasos_18_manual
+theonumfi_manual
+xristofea_manual
+subject_1
+subject!
+subject_1
+>>>>>>> 5f76680e (Initial commit)
